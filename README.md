@@ -52,19 +52,6 @@ The performance of the chatbot can be evaluated using various metrics, including
 - **Response Time**: The time taken to return results after a query is made.
 - **User Feedback**: Collecting feedback from users on the clarity and usefulness of responses.
 
- 📝 Future Work
-There are several ways to enhance this project:
-- **Multiple LLMs**: Experiment with other large language models for better accuracy.
-- **User Interface**: Develop a web interface using Flask or Streamlit for easier interaction.
-- **Deployment**: Host the application on cloud platforms to make it accessible to a wider audience.
-
- 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Feel free to contribute to this project or reach out with any questions! Happy coding! 🎉
-```
 
 # Notes:
 - Replace `pik1989` in the clone command with your actual GitHub username.
